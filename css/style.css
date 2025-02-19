@@ -865,7 +865,22 @@ nav.fixed-top .nav-item .nav-link:before {
 }
 
 
-/*===Creative Page===*/
+/*===Creative Page===
+#home-svg {
+    height: 150px;
+    width: 100vw;
+    position: absolute;
+    bottom: 0px;
+    left: 0;
+    z-index: 3;
+}
+
+#home-svg .p-curve {
+    fill: #fff;
+}
+
+*/
+
 #home-svg {
     height: 150px;
     width: 100vw;
